@@ -14,7 +14,7 @@ const App: React.FunctionComponent = () => {
           <span>Phone: (870) 405-3822</span>
         </div>
         <div className="email">
-          <span>Email: blhart89@outlook.com</span>
+          <span>Email: hartshollergraphics@outlook.com</span>
         </div>
       </div>
     </div>
